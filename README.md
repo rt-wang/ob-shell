@@ -5,7 +5,7 @@ A lightweight SwiftUI iOS companion for working with local Markdown notes from a
 The app is intentionally small: open quickly, choose a vault folder, browse recent notes, edit plain Markdown, and append quick captures to `Inbox.md` or a daily note. It is not a replacement for Obsidian desktop or mobile.
 
 This project is independent and is not affiliated with Obsidian.
-
+<img width="2359" height="1496" alt="hero" src="https://github.com/user-attachments/assets/75430414-7fa6-4946-a477-b40fa64495e3" />
 ## Status
 
 Prototype / MVP. The current app targets iOS 17+ and builds from `FastObsidianMobile.xcodeproj`.
