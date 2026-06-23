@@ -20,7 +20,6 @@ Prototype / MVP. The current app targets iOS 17+ and builds from `FastObsidianMo
 - Render a restrained subset of Markdown before switching into raw edit mode.
 - Autosave plain Markdown edits back to the selected local file.
 - Create a new Markdown note in the selected vault root.
-- Append quick captures to `Inbox.md` or `Daily/yyyy-MM-dd.md`.
 
 ## Non-Goals
 
