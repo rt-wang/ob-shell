@@ -1,4 +1,4 @@
-# Fast Obsidian Mobile
+# ob shell
 
 A lightweight SwiftUI iOS companion for working with local Markdown notes from an Obsidian vault.
 
